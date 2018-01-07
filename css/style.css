@@ -1,0 +1,61 @@
+#head-title{
+   font-family: 'Tangerine', serif;
+   font-size: 65px;
+   text-shadow: 4px 4px 4px #aaa;
+}
+
+.about-me{
+  font-size: 16px;
+}
+
+/* Make the image fully responsive */
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+a.nav-link{
+	font-size: 20px;
+}
+
+.navbar-dark .navbar-brand{
+	font-size: 23px;
+}
+
+.img-fluid.main{
+	padding: 5px;
+	margin: 5px;
+	margin-left: -5px;
+}
+
+.card-img-top.img-thumbnail.img-fluid.app-image{
+	padding: 0px;
+	margin-left: 30%;
+	width:40%;
+}
+
+.card-title{
+	text-align: center;
+}
+
+.card {
+	margin-bottom: 1em;
+}
+
+.image-button.text-center {
+	margin-top: 10px;
+	margin-left: -20px;
+}
+
+.list-group-item.active{
+	background: #17a2b8!important;
+	border-color: #17a2b8!important;
+}
+
+.about-content{
+	margin-bottom: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: greenyellow;
+}
